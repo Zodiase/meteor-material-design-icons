@@ -1,4 +1,4 @@
-var mdiVersion = '2.2.1';
+var mdiVersion = '2.2.2';
 var revision = 0;
 
 Package.describe({
